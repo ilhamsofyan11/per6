@@ -1,3 +1,3 @@
 # Tugas Praktikum 3
 ## Latihan 1
-![img](git/latihan1.png)
+![img](screenshot/latihan1.png)

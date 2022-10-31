@@ -1,5 +1,8 @@
 # Tugas Praktikum 3
-## Tipe Data
-### Tipe data adalah suatu media atau memori pada komputer yang digunakan untuk menampung informasi. 
+## Berikut Dibawah Ini Adalah Program Menghitung Luas Dan Keliling Lingkaran Beserta Hasilnya
+![img](screenshot/program%20kl.png)
+### Dan Berikut Flowchart Program Menghitung Luas dan Keliling Lingkaran 
+![img](screenshot/flowchart.png)
+#### Latihan 1
 ![img](screenshot/latihan1.png)
 ![img](screenshot/hasillatihan1.png)
